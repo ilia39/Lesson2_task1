@@ -9,9 +9,10 @@
 Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода.
 
 JavaScript:
-```javascript
+```
+javascript
 <script src="https://localhost/neuro.sdk.min.js"></script>
-``
+```
 
 Java (Maven):
 ```
